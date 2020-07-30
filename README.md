@@ -1,5 +1,6 @@
 # interact_restaurant
 Use python to interact with the restaurant DB
+Please note that you will need to have the restaurant DB downloaded and in the parent file for this to work.
 
 ## Before running this code
 It is very important for you to understand this code before running it. 
